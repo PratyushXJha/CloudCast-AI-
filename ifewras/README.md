@@ -1,4 +1,4 @@
-# FloodCast AI — Flood Early Warning, Forecasting & Rescue Allocation
+# CloudCast AI — Flood Early Warning, Forecasting & Rescue Allocation
 **Smart India Hackathon 2026 | Problem Statement: IH260071 + SIH260192 (Merged)**
 **Designed for: Assam State Disaster Management Authority (ASDMA) & SDRF Assam**
 
@@ -23,7 +23,7 @@ Assam's flood crisis is a multi-stage cascade: intense rainfall in upstream hill
 
 ---
 
-## ✨ What's new in FloodCast AI 2.0
+## ✨ What's new in CloudCast AI 2.0
 
 | Feature | How it works |
 | :--- | :--- |
